@@ -172,19 +172,19 @@ Hollywood-Star Jeremy Renner,Hollywood-Star Jeremy Renner,PER,0.0,0.0,de,4
 Till Backhaus,Till Backhaus,PER,0.07500000000000001,0.0,de,4
 Rosi Mittermaier,Rosi Mittermaier,PER,-0.15000000000000002,0.0,de,4
 Amy Gutmann,Amy Gutmann,PER,-0.175,0.25,de,4
-Jens Spahn,Jens Spahn,PER,-0.1625,0.0,de,4
 Nikki Haley,Nikki Haley,PER,-0.375,0.0,de,4
+Leni Klum,Leni Klum,PER,0.0,0.5,de,4
 Jonas Hofmann,Jonas Hofmann,PER,0.0,0.0,de,4
 Mats Hummels,Mats Hummels,PER,0.175,0.0,de,4
 Daniel Thioune,Daniel Thioune,PER,0.0,0.0,de,4
-Blandine Lenoir,Blandine Lenoir,PER,0.0,0.75,de,4
+Jens Spahn,Jens Spahn,PER,-0.1625,0.0,de,4
 Alexander Dugin,Alexander Dugin,PER,-0.175,0.0,de,4
 Rouven Schröder,Rouven Schröder,PER,0.175,0.0,de,4
 Robert Stadlober,Robert Stadlober,PER,0.0,0.5,de,4
 Wolf Schneider,Wolf Schneider,PER,-1.0,0.0,de,4
 Bjarne Mädel,Bjarne Mädel,PER,0.175,0.0,de,4
 Denise Herrmann-Wick,Denise Herrmann-Wick,PER,-0.5,0.0,de,4
-Leni Klum,Leni Klum,PER,0.0,0.5,de,4
+Blandine Lenoir,Blandine Lenoir,PER,0.0,0.75,de,4
 Steffi Lemke,Steffi Lemke,PER,-0.25,0.0,de,4
 Sebastian Vettel,Sebastian Vettel,PER,0.25,0.0,de,4
 Stefan Schwarzer,Stefan Schwarzer,PER,0.2875,0.0,de,4
@@ -546,10 +546,10 @@ Christina Aguilera,Christina Aguilera,PER,0.0,0.0,de,2
 Marilyn Monroe,Marilyn Monroe,PER,0.0,0.0,de,2
 Walentyn Dudkin,Walentyn Dudkin,PER,0.0,0.0,de,2
 Michael Schnellbach,Michael Schnellbach,PER,1.0,0.0,de,2
-Jürgen Pföhler,Jürgen Pföhler,PER,0.0,0.0,de,2
 Kais Saied,Kais Saied,PER,0.0,0.0,de,2
-Glenn Greenwald,Glenn Greenwald,PER,-1.0,0.0,de,2
+Jürgen Pföhler,Jürgen Pföhler,PER,0.0,0.0,de,2
 Henry Miller,Henry Miller,PER,0.0,0.0,de,2
+Glenn Greenwald,Glenn Greenwald,PER,-1.0,0.0,de,2
 Oleksij Resnikow da,Oleksij Resnikow da,PER,0.0,0.0,de,2
 Helmut Ettl,Helmut Ettl,PER,0.0,1.0,de,2
 Annette Riedl,Annette Riedl,PER,0.0,0.0,de,2
@@ -1108,13 +1108,13 @@ Pia Lamberty,Pia Lamberty,PER,0.35,0.0,de,2
 Ralf Rothmanns,Ralf Rothmanns,PER,-0.5,0.0,de,2
 Alphonso Davies,Alphonso Davies,PER,0.0,0.0,de,2
 Sven Regener,Sven Regener,PER,0.0,0.0,de,2
-Peter Molnar,Peter Molnar,PER,0.5,0.0,de,2
 Christopher Antwi-Adjei,Christopher Antwi-Adjei,PER,-0.7,0.0,de,2
 Dennis Smarsch,Dennis Smarsch,PER,0.0,0.0,de,2
+Florian Graedler,Florian Graedler,PER,0.0,0.0,de,2
 Kerry Hoppe,Kerry Hoppe,PER,0.0,0.0,de,2
 Doris Fenske,Doris Fenske,PER,0.0,0.0,de,2
 "Sturmtief ""Frederic","Sturmtief ""Frederic",PER,0.35,0.0,de,2
-Florian Graedler,Florian Graedler,PER,0.0,0.0,de,2
+Peter Molnar,Peter Molnar,PER,0.5,0.0,de,2
 RKI-Chef Wieler,RKI-Chef Wieler,PER,0.0,0.0,de,2
 Garri Kasparow,Garri Kasparow,PER,-0.35,0.0,de,2
 Sam Bankman-Fried,Sam Bankman-Fried,PER,0.425,0.0,de,2
@@ -1139,20 +1139,20 @@ Cloud-Gaming-Dienst Stadia,Cloud-Gaming-Dienst Stadia,PER,0.0,1.0,de,2
 Fatma Aydemir,Fatma Aydemir,PER,0.7,0.0,de,2
 Jens Oehmichen,Jens Oehmichen,PER,-0.175,0.25,de,2
 Gerrit Holtmann,Gerrit Holtmann,PER,0.0,0.0,de,2
-nan Den,nan Den,PER,0.0,0.0,de,2
+Jewgen Gamij,Jewgen Gamij,PER,0.0,0.0,de,2
 João Cancelo,João Cancelo,PER,-0.5,0.4,de,2
-"Taifun ""Noru","Taifun ""Noru",PER,0.0,0.0,de,2
 Klaus Merker,Klaus Merker,PER,0.0,0.0,de,2
+"Taifun ""Noru","Taifun ""Noru",PER,0.0,0.0,de,2
 Renato Veiga,Renato Veiga,PER,0.0,0.0,de,2
 Daley Blind,Daley Blind,PER,-0.5,0.4,de,2
 Friedemann Berg,Friedemann Berg,PER,-1.0,0.0,de,2
 Eva Löbau,Eva Löbau,PER,-1.0,0.0,de,2
 Frank Baumann,Frank Baumann,PER,-1.0,0.0,de,2
-David Young,David Young,PER,-0.15000000000000002,0.0,de,2
-Jewgen Gamij,Jewgen Gamij,PER,0.0,0.0,de,2
+Anna Meier,Anna Meier,PER,0.0,0.0,de,2
+nan Den,nan Den,PER,0.0,0.0,de,2
 Alica Schmidt,Alica Schmidt,PER,0.0,0.0,de,2
 Punxsutawney Phil,Punxsutawney Phil,PER,0.0,0.0,de,2
-Anna Meier,Anna Meier,PER,0.0,0.0,de,2
+David Young,David Young,PER,-0.15000000000000002,0.0,de,2
 Marcel Halstenberg,Marcel Halstenberg,PER,0.35,0.0,de,2
 Franziska Tobler,Franziska Tobler,PER,-1.0,0.0,de,2
 Karine Tuil,Karine Tuil,PER,0.0,0.5,de,2
@@ -1205,10 +1205,10 @@ Nasses Feiertagswetter,Nasses Feiertagswetter,PER,0.0,0.0,de,1
 Nannie Fredrikson,Nannie Fredrikson,PER,0.0,0.0,de,1
 Margaret Atwoods,Margaret Atwoods,PER,0.0,1.0,de,1
 Bomba Luigi,Bomba Luigi,PER,0.0,0.0,de,1
+Antje Diekhan,Antje Diekhan,PER,0.2333333333333333,0.6666666666666666,de,1
 Ottmar Edenhofer,Ottmar Edenhofer,PER,0.0,0.0,de,1
 Berthold Heil,Berthold Heil,PER,1.0,0.0,de,1
 Naomi Klein,Naomi Klein,PER,1.0,0.0,de,1
-Antje Diekhan,Antje Diekhan,PER,0.2333333333333333,0.6666666666666666,de,1
 Thomas Strobl,Thomas Strobl,PER,0.0,0.0,de,1
 Lula da Silva,Lula da Silva,PER,1.0,0.0,de,1
 Luiz Inácio Lula da Silvas,Luiz Inácio Lula da Silvas,PER,0.0,0.0,de,1
@@ -1281,7 +1281,7 @@ Ed S,Ed S,PER,0.0,0.0,de,1
 Filip Pronin,Filip Pronin,PER,0.0,0.0,de,1
 Petra V,Petra V,PER,0.0,0.0,de,1
 Tausenden Engländern,Tausenden Engländern,PER,1.0,0.0,de,1
-Dmytro Schyvytskyi,Dmytro Schyvytskyi,PER,0.0,0.0,de,1
+Rainer Munz,Rainer Munz,PER,0.0,0.0,de,1
 Pascal Groß,Pascal Groß,PER,0.7,0.0,de,1
 Sebastian Berning,Sebastian Berning,PER,0.5,0.4,de,1
 Cristiano Ronaldo,Cristiano Ronaldo,PER,0.7,0.0,de,1
@@ -1600,7 +1600,7 @@ Volker Tietz,Volker Tietz,PER,0.0,1.0,de,1
 Herbert Muster,Herbert Muster,PER,0.7,0.0,de,1
 Hulusi Akar,Hulusi Akar,PER,1.0,0.0,de,1
 David Simons,David Simons,PER,0.7,0.0,de,1
-Rainer Munz,Rainer Munz,PER,0.0,0.0,de,1
+Moskau-Korrespondent Munz,Moskau-Korrespondent Munz,PER,0.0,0.0,de,1
 Leo Tolstoi,Leo Tolstoi,PER,0.0,0.0,de,1
 Richard Nixon,Richard Nixon,PER,0.0,0.0,de,1
 Heidi Rogy,Heidi Rogy,PER,0.0,0.0,de,1
@@ -1966,8 +1966,8 @@ Queen Anne’s Lace,Queen Anne’s Lace,PER,1.0,0.0,de,1
 Queen Annes Lace,Queen Annes Lace,PER,1.0,0.0,de,1
 Caspar David Friedrichs,Caspar David Friedrichs,PER,0.0,0.0,de,1
 Caspar David Frie,Caspar David Frie,PER,0.0,0.0,de,1
+Dmytro Schyvytskyi,Dmytro Schyvytskyi,PER,0.0,0.0,de,1
 Putin weglenken,Putin weglenken,PER,0.0,0.0,de,1
-Sergej Sobjanin,Sergej Sobjanin,PER,0.0,0.0,de,1
 Michael Kunz,Michael Kunz,PER,0.0,0.0,de,1
 Katastrophenforscher Frank Roselieb,Katastrophenforscher Frank Roselieb,PER,0.0,0.0,de,1
 Gordon Schnieder,Gordon Schnieder,PER,0.0,0.0,de,1
@@ -1976,7 +1976,7 @@ Landesgartenschau-Chef M,Landesgartenschau-Chef M,PER,0.0,0.0,de,1
 Kataryna Zigankowa,Kataryna Zigankowa,PER,0.0,0.0,de,1
 Markus Schmitt,Markus Schmitt,PER,0.0,0.0,de,1
 Christian Rentrop,Christian Rentrop,PER,0.7,0.0,de,1
-Moskau-Korrespondent Munz,Moskau-Korrespondent Munz,PER,0.0,0.0,de,1
+Sergej Sobjanin,Sergej Sobjanin,PER,0.0,0.0,de,1
 Leander Haußmanns,Leander Haußmanns,PER,0.0,1.0,de,1
 Joseph Goebbels,Joseph Goebbels,PER,0.0,0.0,de,1
 Adolf Hitlers,Adolf Hitlers,PER,0.0,0.0,de,1
@@ -2913,11 +2913,11 @@ Olaf Gersemann,Olaf Gersemann,PER,0.0,0.0,de,1
 Heinz Wirtz,Heinz Wirtz,PER,0.0,0.0,de,1
 Wen Köln,Wen Köln,PER,0.0,0.0,de,1
 Werders Borré,Werders Borré,PER,0.0,0.0,de,1
-Janik Pohl,Janik Pohl,PER,0.0,0.0,de,1
+Kristian Stemmler,Kristian Stemmler,PER,0.7,0.0,de,1
 Carmen Geiss,Carmen Geiss,PER,0.7,0.0,de,1
 Robert Geiss,Robert Geiss,PER,0.7,0.0,de,1
 Eva Irrgang,Eva Irrgang,PER,0.0,0.0,de,1
-Kristian Stemmler,Kristian Stemmler,PER,0.7,0.0,de,1
+Janik Pohl,Janik Pohl,PER,0.0,0.0,de,1
 Mario Donick,Mario Donick,PER,0.0,0.0,de,1
 Daniel Günther,Daniel Günther,PER,-0.7,0.0,de,1
 Santa Claus,Santa Claus,PER,0.0,0.0,de,1
