@@ -246,9 +246,9 @@ Regionalliga,Regionalliga,ORG,-0.2333333333333333,0.0,de,6
 Intel,Intel,ORG,0.11666666666666665,0.0,de,6
 Homeoffice,Homeoffice,ORG,0.16666666666666666,0.0,de,6
 AKW,AKW,ORG,0.0,0.0,de,6
-Deutschlands EU-Partner,Deutschlands EU-Partner,ORG,0.0,0.0,de,6
 WDR,WDR,ORG,0.0,0.0,de,6
 Salzburger Festspiele,Salzburger Festspiele,ORG,0.3333333333333333,0.3333333333333333,de,6
+Deutschlands EU-Partner,Deutschlands EU-Partner,ORG,0.0,0.0,de,6
 Shutterstock.com,Shutterstock.com,ORG,0.0,0.16666666666666666,de,6
 Regionalligist,Regionalligist,ORG,0.10000000000000002,0.0,de,6
 REUTERS,REUTERS,ORG,0.16666666666666666,0.0,de,6
@@ -267,8 +267,8 @@ NHL,NHL,ORG,0.0,0.0,de,5
 ÖAMTC,ÖAMTC,ORG,0.03333333333333331,0.06666666666666667,de,5
 Opel,Opel,ORG,0.13999999999999999,0.2,de,5
 Kommission,Kommission,ORG,-0.2,0.0,de,5
-Deutsche Bank,Deutsche Bank,ORG,-0.13999999999999999,0.0,de,5
 VfB Lübeck,VfB Lübeck,ORG,0.07999999999999999,0.0,de,5
+Deutsche Bank,Deutsche Bank,ORG,-0.13999999999999999,0.0,de,5
 Soziales,Soziales,ORG,-0.33999999999999997,0.0,de,5
 UN-Flüchtlingskommissar,UN-Flüchtlingskommissar,ORG,-0.13999999999999999,0.0,de,5
 Bayerischer Fußball-Verband,Bayerischer Fußball-Verband,ORG,0.7,0.0,de,5
@@ -300,8 +300,8 @@ ruhr24.de,ruhr24.de,ORG,-0.13999999999999999,0.0,de,5
 Gazprom,Gazprom,ORG,0.06999999999999999,0.1,de,5
 Verfassungsschutz,Verfassungsschutz,ORG,0.13999999999999999,0.0,de,5
 OMV,OMV,ORG,0.039999999999999994,0.3,de,5
-AS Monaco,AS Monaco,ORG,0.0,0.0,de,5
 Arsenal,Arsenal,ORG,0.13999999999999999,0.0,de,5
+AS Monaco,AS Monaco,ORG,0.0,0.0,de,5
 Verteidigungsministerium,Verteidigungsministerium,ORG,0.27999999999999997,0.0,de,5
 LNG,LNG,ORG,0.13999999999999999,0.4,de,5
 BUND,BUND,ORG,0.0,0.0,de,5
@@ -369,9 +369,9 @@ Edeka,Edeka,ORG,0.2833333333333333,0.0,de,4
 Winter-WM in Katar,Winter-WM in Katar,ORG,-0.15000000000000002,0.0,de,4
 Streaminghit,Streaminghit,ORG,0.0,0.0,de,4
 Cell Broadcast,Cell Broadcast,ORG,0.175,0.0,de,4
+Buchmesse,Buchmesse,ORG,0.175,0.0,de,4
 The Weather Channel,The Weather Channel,ORG,0.0,0.0,de,4
 Hamas,Hamas,ORG,0.0,0.25,de,4
-Buchmesse,Buchmesse,ORG,0.175,0.0,de,4
 Transferbedarf,Transferbedarf,ORG,0.0,0.0,de,4
 KI-Modell,KI-Modell,ORG,0.3,0.125,de,4
 OTTO,OTTO,ORG,0.0,0.75,de,4
@@ -434,14 +434,14 @@ Bundesverkehrsminister,Bundesverkehrsminister,ORG,-0.575,0.0,de,4
 FC Heidenheim,FC Heidenheim,ORG,0.0,0.25,de,4
 Mercedes-Benz,Mercedes-Benz,ORG,0.0,0.0,de,4
 Kehl,Kehl,ORG,0.0,0.0,de,4
-Robert Koch-Institut,Robert Koch-Institut,ORG,0.0,0.0,de,4
 Rares,Rares,ORG,0.5,0.0,de,4
+Bayerischen Bauernverbandes,Bayerischen Bauernverbandes,ORG,0.0,0.0,de,4
 NABU,NABU,ORG,0.5249999999999999,0.0,de,4
 Dax-Konzern,Dax-Konzern,ORG,0.0,0.0,de,4
 FCB,FCB,ORG,0.25,0.0,de,4
-Bayerischen Bauernverbandes,Bayerischen Bauernverbandes,ORG,0.0,0.0,de,4
-Sommer-Wetter,Sommer-Wetter,ORG,0.25,0.0,de,4
 Boston Bruins,Boston Bruins,ORG,0.35,0.0,de,4
+Sommer-Wetter,Sommer-Wetter,ORG,0.25,0.0,de,4
+Robert Koch-Institut,Robert Koch-Institut,ORG,0.0,0.0,de,4
 wi…,wi…,ORG,0.0,0.5,de,4
 Deutsche Meister,Deutsche Meister,ORG,0.175,0.0,de,4
 US-Haushalte,US-Haushalte,ORG,0.175,0.5,de,4
@@ -489,9 +489,9 @@ PiS,PiS,ORG,-0.3333333333333333,0.0,de,3
 BMWK,BMWK,ORG,0.3333333333333333,0.0,de,3
 Extremwetter-Ereignissen,Extremwetter-Ereignissen,ORG,-0.05000000000000001,0.0,de,3
 BayWa,BayWa,ORG,-0.4666666666666666,0.0,de,3
-TWL Lichterzaubers,TWL Lichterzaubers,ORG,0.4666666666666666,0.0,de,3
 Aktion,Aktion,ORG,0.3499999999999999,0.16666666666666666,de,3
 GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,de,3
+TWL Lichterzaubers,TWL Lichterzaubers,ORG,0.4666666666666666,0.0,de,3
 Terrormiliz Al-Shabaab,Terrormiliz Al-Shabaab,ORG,-0.2333333333333333,0.0,de,3
 BLSV,BLSV,ORG,0.2333333333333333,0.0,de,3
 FIS,FIS,ORG,-0.10000000000000002,0.0,de,3
@@ -617,15 +617,15 @@ US-Botschafterin,US-Botschafterin,ORG,0.0,0.3333333333333333,de,3
 FC Arsenal,FC Arsenal,ORG,0.6666666666666666,0.0,de,3
 MUWO,MUWO,ORG,0.0,0.0,de,3
 Deutsche W,Deutsche W,ORG,0.0,0.0,de,3
-Boku Wien,Boku Wien,ORG,0.0,0.3333333333333333,de,3
+Brandenburger Obstbauern,Brandenburger Obstbauern,ORG,1.0,0.0,de,3
 Thüringer HC,Thüringer HC,ORG,0.0,0.0,de,3
 Gewerkschaft der Polizei,Gewerkschaft der Polizei,ORG,0.4666666666666666,0.3333333333333333,de,3
 SV Elversberg,SV Elversberg,ORG,-0.2333333333333333,0.0,de,3
 Barça,Barça,ORG,0.3333333333333333,0.0,de,3
 BRIGITTE,BRIGITTE,ORG,0.4666666666666666,0.0,de,3
 Hajduk Split,Hajduk Split,ORG,0.0,0.0,de,3
-Brandenburger Obstbauern,Brandenburger Obstbauern,ORG,1.0,0.0,de,3
 Hove Albion,Hove Albion,ORG,0.0,0.0,de,3
+Boku Wien,Boku Wien,ORG,0.0,0.3333333333333333,de,3
 dap/lsw,dap/lsw,ORG,0.0,0.0,de,3
 ZHAW,ZHAW,ORG,0.3333333333333333,0.0,de,3
 SV Werder Bremen,SV Werder Bremen,ORG,0.6666666666666666,0.0,de,3
@@ -640,11 +640,11 @@ Ford,Ford,ORG,0.2333333333333333,0.0,de,3
 Bresche,Bresche,ORG,1.0,0.0,de,3
 Metabo Akku-Laubbläser,Metabo Akku-Laubbläser,ORG,0.2333333333333333,0.0,de,3
 Landwirtschaftsminister,Landwirtschaftsminister,ORG,-0.3333333333333333,0.0,de,3
-BRD,BRD,ORG,0.0,0.0,de,3
 Statistischem Bundesamt,Statistischem Bundesamt,ORG,0.0,0.0,de,3
-Winter-Volksfest,Winter-Volksfest,ORG,0.0,0.0,de,3
 Deutschen Wetterd,Deutschen Wetterd,ORG,0.0,0.0,de,3
+Winter-Volksfest,Winter-Volksfest,ORG,0.0,0.0,de,3
 VW-Werken,VW-Werken,ORG,0.0,0.0,de,3
+BRD,BRD,ORG,0.0,0.0,de,3
 Linken,Linken,ORG,-0.2333333333333333,0.16666666666666666,de,3
 Energie Cottbus,Energie Cottbus,ORG,0.0,0.0,de,3
 Eurozone,Eurozone,ORG,0.4666666666666666,0.0,de,3
@@ -694,31 +694,32 @@ BVB-Profi,BVB-Profi,ORG,0.2333333333333333,0.0,de,3
 Bauernverbandes,Bauernverbandes,ORG,0.4666666666666666,0.0,de,3
 Apples,Apples,ORG,0.3333333333333333,0.0,de,3
 ICE-Ausfälle,ICE-Ausfälle,ORG,0.6999999999999998,0.0,de,3
-Landesbauernverband im Kremmen,Landesbauernverband im Kremmen,ORG,0.6999999999999998,0.0,de,3
-Mehr Hitzetote,Mehr Hitzetote,ORG,-0.05000000000000001,0.5,de,3
+KP,KP,ORG,-0.2333333333333333,0.0,de,3
+S04,S04,ORG,0.0,0.0,de,3
 Bremer Senatsweins,Bremer Senatsweins,ORG,0.2333333333333333,0.0,de,3
 Tiny Desk Concert,Tiny Desk Concert,ORG,0.6666666666666666,0.0,de,3
 Mac Studio,Mac Studio,ORG,0.0,0.6666666666666666,de,3
 Adidas,Adidas,ORG,0.0,0.6666666666666666,de,3
-Energie-Infrastruktur,Energie-Infrastruktur,ORG,0.0,0.0,de,3
-S04,S04,ORG,0.0,0.0,de,3
-Congstar,Congstar,ORG,0.6666666666666666,0.0,de,3
-BILDSTRECKE,BILDSTRECKE,ORG,0.2333333333333333,0.0,de,3
+Landesbauernverband im Kremmen,Landesbauernverband im Kremmen,ORG,0.6999999999999998,0.0,de,3
 KI-Assistenten,KI-Assistenten,ORG,-0.3499999999999999,0.16666666666666666,de,3
-Porsche,Porsche,ORG,0.2333333333333333,0.0,de,3
-KP,KP,ORG,-0.2333333333333333,0.0,de,3
-Schalke 04,Schalke 04,ORG,0.2333333333333333,0.0,de,3
-Diablo Immortal,Diablo Immortal,ORG,0.033333333333333326,0.0,de,3
 Lidl,Lidl,ORG,0.2333333333333333,0.0,de,3
+Mehr Hitzetote,Mehr Hitzetote,ORG,-0.05000000000000001,0.5,de,3
+BILDSTRECKE,BILDSTRECKE,ORG,0.2333333333333333,0.0,de,3
+Congstar,Congstar,ORG,0.6666666666666666,0.0,de,3
+Porsche,Porsche,ORG,0.2333333333333333,0.0,de,3
+Schalke 04,Schalke 04,ORG,0.2333333333333333,0.0,de,3
+Energie-Infrastruktur,Energie-Infrastruktur,ORG,0.0,0.0,de,3
+Diablo Immortal,Diablo Immortal,ORG,0.033333333333333326,0.0,de,3
 Bundesliga-Gastspiel,Bundesliga-Gastspiel,ORG,0.0,0.0,de,2
-Freiluft-Event des Jahres,Freiluft-Event des Jahres,ORG,0.0,0.0,de,2
-Winter-Neuling,Winter-Neuling,ORG,0.0,0.0,de,2
+Werder Bremens,Werder Bremens,ORG,0.35,0.0,de,2
+Aue,Aue,ORG,0.35,0.0,de,2
 Hochwasser-Gebieten,Hochwasser-Gebieten,ORG,0.7,0.0,de,2
 Absurd!,Absurd!,ORG,-1.0,0.0,de,2
 Austrian Airlines,Austrian Airlines,ORG,0.35,0.0,de,2
 RBB-Intendantin,RBB-Intendantin,ORG,-0.35,0.0,de,2
-Aue,Aue,ORG,0.35,0.0,de,2
+Freiluft-Event des Jahres,Freiluft-Event des Jahres,ORG,0.0,0.0,de,2
 Fußball-Bundesligist RB Leipzig,Fußball-Bundesligist RB Leipzig,ORG,0.0,0.0,de,2
+Winter-Neuling,Winter-Neuling,ORG,0.0,0.0,de,2
 Sashas Tour,Sashas Tour,ORG,-0.35,0.25,de,2
 Gladbach!,Gladbach!,ORG,-1.0,0.0,de,2
 Borussia!,Borussia!,ORG,-0.7,0.0,de,2
@@ -731,9 +732,8 @@ Frostspanners,Frostspanners,ORG,-0.7,0.0,de,2
 Nationalteams,Nationalteams,ORG,0.7,0.0,de,2
 WEATHER,WEATHER,ORG,-0.35,0.25,de,2
 Ita,Ita,ORG,0.0,0.0,de,2
-Apothekensessions,Apothekensessions,ORG,0.0,0.5,de,2
 Mildere Temperaturen und Wind,Mildere Temperaturen und Wind,ORG,0.0,0.0,de,2
-Werder Bremens,Werder Bremens,ORG,0.35,0.0,de,2
+Leverkusen schnappt,Leverkusen schnappt,ORG,0.0,0.0,de,2
 Stromund,Stromund,ORG,0.0,0.5,de,2
 Bernsteinsammler,Bernsteinsammler,ORG,-1.0,0.0,de,2
 Blitzgewitter,Blitzgewitter,ORG,-0.7,0.0,de,2
@@ -762,7 +762,7 @@ Schotten,Schotten,ORG,0.0,0.0,de,2
 SC Verl,SC Verl,ORG,0.0,0.0,de,2
 Bundestags,Bundestags,ORG,-0.5,0.0,de,2
 Rhein-Main Bad Homburg,Rhein-Main Bad Homburg,ORG,-0.175,0.0,de,2
-Leverkusen schnappt,Leverkusen schnappt,ORG,0.0,0.0,de,2
+Apothekensessions,Apothekensessions,ORG,0.0,0.5,de,2
 H…,H…,ORG,0.0,0.0,de,2
 Singer-Songwriters,Singer-Songwriters,ORG,1.0,0.0,de,2
 THORSTEN,THORSTEN,ORG,0.0,0.0,de,2
@@ -841,8 +841,8 @@ Elmas-Transfer,Elmas-Transfer,ORG,0.0,0.0,de,2
 Bodensee-Region,Bodensee-Region,ORG,0.7,0.0,de,2
 Gärtner,Gärtner,ORG,0.0,0.0,de,2
 Militärdiktatur,Militärdiktatur,ORG,0.0,0.0,de,2
-SPD-Spitzenkandidatin,SPD-Spitzenkandidatin,ORG,0.0,0.0,de,2
 SO,SO,ORG,0.0,0.0,de,2
+SPD-Spitzenkandidatin,SPD-Spitzenkandidatin,ORG,0.0,0.0,de,2
 ASFINAG,ASFINAG,ORG,0.5,0.0,de,2
 Cottbus,Cottbus,ORG,0.0,0.0,de,2
 Telebörse,Telebörse,ORG,0.0,0.0,de,2
@@ -856,7 +856,7 @@ Vokalensemble Exaudi,Vokalensemble Exaudi,ORG,0.0,0.0,de,2
 UBS,UBS,ORG,-0.5,0.0,de,2
 Disney Dream,Disney Dream,ORG,0.0,0.0,de,2
 Hü!,Hü!,ORG,0.0,0.0,de,2
-Grünen-Bundestagsfraktion,Grünen-Bundestagsfraktion,ORG,0.575,0.0,de,2
+Medienflut,Medienflut,ORG,0.7,0.0,de,2
 Eröffnungskonzert des Schleswig-Holstein,Eröffnungskonzert des Schleswig-Holstein,ORG,0.0,0.0,de,2
 Kleines Kraftwerk,Kleines Kraftwerk,ORG,0.0,0.0,de,2
 Hochwassernachrichtendienst Bayern,Hochwassernachrichtendienst Bayern,ORG,0.0,0.0,de,2
@@ -880,16 +880,16 @@ vilisto,vilisto,ORG,0.5,0.0,de,2
 DIE ZEIT,DIE ZEIT,ORG,0.6666666666666666,0.3333333333333333,de,2
 RSV,RSV,ORG,0.35,0.0,de,2
 DBB-Team,DBB-Team,ORG,0.7,0.0,de,2
+Regionalliga Nordost,Regionalliga Nordost,ORG,0.0,0.0,de,2
 Rennsport-Fans,Rennsport-Fans,ORG,0.0,0.5,de,2
 Weltmeister-Team,Weltmeister-Team,ORG,0.0,0.0,de,2
 Kirschbauern,Kirschbauern,ORG,-0.7,0.0,de,2
 WM-Halbfinale,WM-Halbfinale,ORG,0.0,0.0,de,2
 Pflaumenernte,Pflaumenernte,ORG,0.0,0.0,de,2
 EM-Kolumnisten,EM-Kolumnisten,ORG,0.35,0.0,de,2
-Regionalliga Nordost,Regionalliga Nordost,ORG,0.0,0.0,de,2
 BN,BN,ORG,0.0,0.0,de,2
 Finnen,Finnen,ORG,0.5,0.0,de,2
-Al-Hilal,Al-Hilal,ORG,-0.7,0.0,de,2
+Grünen-Bundestagsfraktion,Grünen-Bundestagsfraktion,ORG,0.575,0.0,de,2
 Kaufhof-Haus,Kaufhof-Haus,ORG,-0.35,0.25,de,2
 Chemie-Imperium,Chemie-Imperium,ORG,0.0,0.0,de,2
 Brauerei Baltika,Brauerei Baltika,ORG,0.0,0.0,de,2
@@ -924,14 +924,14 @@ Roche,Roche,ORG,0.0,0.0,de,2
 WTA,WTA,ORG,-0.15000000000000002,0.0,de,2
 dänischen Carlsberg-Konzern,dänischen Carlsberg-Konzern,ORG,0.0,0.0,de,2
 Lehrkräften,Lehrkräften,ORG,0.0,0.0,de,2
+Al-Hilal,Al-Hilal,ORG,-0.7,0.0,de,2
 Pittsburgh Steelers,Pittsburgh Steelers,ORG,0.0,0.0,de,2
 krass!,krass!,ORG,0.7,0.0,de,2
-Medienflut,Medienflut,ORG,0.7,0.0,de,2
 BDEW,BDEW,ORG,0.0,0.0,de,2
 GIANTS Software,GIANTS Software,ORG,0.0,0.0,de,2
-Unternehmens Berger,Unternehmens Berger,ORG,1.0,0.0,de,2
-Monatsaussichten,Monatsaussichten,ORG,0.0,0.5,de,2
 Currentzis,Currentzis,ORG,0.0,0.5,de,2
+Monatsaussichten,Monatsaussichten,ORG,0.0,0.5,de,2
+Unternehmens Berger,Unternehmens Berger,ORG,1.0,0.0,de,2
 Deutschen Weininstitut,Deutschen Weininstitut,ORG,0.35,0.0,de,2
 Entwickler,Entwickler,ORG,0.0,0.0,de,2
 Verbandes Fisi,Verbandes Fisi,ORG,0.7,0.0,de,2
@@ -971,17 +971,17 @@ Faschismus,Faschismus,ORG,0.0,0.0,de,2
 Connectivity Standards Alliance,Connectivity Standards Alliance,ORG,0.0,0.0,de,2
 Marvel,Marvel,ORG,0.7,0.0,de,2
 Pumpkin Spice Latte,Pumpkin Spice Latte,ORG,-0.35,0.0,de,2
-DLF,DLF,ORG,0.0,0.0,de,2
+Cannabis-Anbau,Cannabis-Anbau,ORG,0.0,0.0,de,2
 Inter Miami,Inter Miami,ORG,0.5,0.0,de,2
 Arabischen Liga,Arabischen Liga,ORG,0.0,0.0,de,2
 SPD-Fraktion,SPD-Fraktion,ORG,0.0,0.0,de,2
 Wetter-Cocktail,Wetter-Cocktail,ORG,0.0,0.0,de,2
-Deutsche Wetterdienst Unwetterwarnungen,Deutsche Wetterdienst Unwetterwarnungen,ORG,0.0,0.0,de,2
 Jagged Alliance,Jagged Alliance,ORG,1.0,0.0,de,2
-Cannabis-Anbau,Cannabis-Anbau,ORG,0.0,0.0,de,2
+DLF,DLF,ORG,0.0,0.0,de,2
+Deutsche Wetterdienst Unwetterwarnungen,Deutsche Wetterdienst Unwetterwarnungen,ORG,0.0,0.0,de,2
 BBC Studios Productions,BBC Studios Productions,ORG,-0.7,0.0,de,2
-Bundesamt für Seeschifffahrt…,Bundesamt für Seeschifffahrt…,ORG,0.0,0.0,de,2
 Ernte-Erträge,Ernte-Erträge,ORG,0.5,0.0,de,2
+Bundesamt für Seeschifffahrt…,Bundesamt für Seeschifffahrt…,ORG,0.0,0.0,de,2
 Berthold Leibinger Stiftung,Berthold Leibinger Stiftung,ORG,0.35,0.0,de,2
 DWD-Homepage,DWD-Homepage,ORG,-0.7,0.0,de,2
 Ges…,Ges…,ORG,-0.35,0.0,de,2
@@ -1555,7 +1555,7 @@ Broadway-Debüt,Broadway-Debüt,ORG,0.0,0.0,de,2
 Foto: picture alliance,Foto: picture alliance,ORG,0.0,0.0,de,2
 Zentrum der Stadt,Zentrum der Stadt,ORG,-1.0,0.0,de,2
 Bund…,Bund…,ORG,0.0,0.0,de,1
-Energi…,Energi…,ORG,0.0,0.0,de,1
+Institut für Schnee und Lawinenforschung,Institut für Schnee und Lawinenforschung,ORG,0.0,0.0,de,1
 niederländische Fußball-Nationalspieler,niederländische Fußball-Nationalspieler,ORG,-0.7,0.0,de,1
 Distel,Distel,ORG,0.0,0.0,de,1
 US-Raketen,US-Raketen,ORG,1.0,0.0,de,1
@@ -1570,7 +1570,7 @@ Berliner Fußball-Zweitligist,Berliner Fußball-Zweitligist,ORG,0.0,0.0,de,1
 Macbooks,Macbooks,ORG,0.0,0.0,de,1
 Schnee-Walze Deutschland,Schnee-Walze Deutschland,ORG,0.0,0.0,de,1
 FDP-Bundestagsfraktion,FDP-Bundestagsfraktion,ORG,0.0,0.0,de,1
-GLP-Präsident,GLP-Präsident,ORG,0.0,0.0,de,1
+Skidestinationen,Skidestinationen,ORG,0.0,0.0,de,1
 Dacia,Dacia,ORG,0.0,0.0,de,1
 Tiroler Schutzwald,Tiroler Schutzwald,ORG,-0.35,0.0,de,1
 Greater Gliders,Greater Gliders,ORG,0.0,0.0,de,1
@@ -1613,7 +1613,7 @@ Kältewelle!,Kältewelle!,ORG,0.0,0.0,de,1
 Mango,Mango,ORG,0.0,0.0,de,1
 H&M,H&M,ORG,0.0,0.0,de,1
 Zara,Zara,ORG,0.0,0.0,de,1
-Institut für Schnee und Lawinenforschung,Institut für Schnee und Lawinenforschung,ORG,0.0,0.0,de,1
+Energi…,Energi…,ORG,0.0,0.0,de,1
 Luxemburg +++ Glatteis-Unfälle,Luxemburg +++ Glatteis-Unfälle,ORG,0.0,0.0,de,1
 Energie-Infrastruktur der,Energie-Infrastruktur der,ORG,0.0,0.0,de,1
 si…,si…,ORG,0.0,0.0,de,1
@@ -1685,7 +1685,7 @@ Ministeriums der Deutsch…,Ministeriums der Deutsch…,ORG,0.0,0.0,de,1
 Winterblues,Winterblues,ORG,0.0,0.0,de,1
 US-Club,US-Club,ORG,0.0,0.0,de,1
 Frühling»-Sängerin,Frühling»-Sängerin,ORG,0.0,0.0,de,1
-KURZ ERKLÄRT,KURZ ERKLÄRT,ORG,0.7,0.0,de,1
+FDP-Nationalrat,FDP-Nationalrat,ORG,0.0,0.0,de,1
 Rundfunkkommission der Länder,Rundfunkkommission der Länder,ORG,0.0,0.0,de,1
 TU,TU,ORG,1.0,0.0,de,1
 Technische Universität Berlin,Technische Universität Berlin,ORG,1.0,0.0,de,1
@@ -1709,9 +1709,9 @@ Bundesrats,Bundesrats,ORG,0.0,0.0,de,1
 Bundesrates,Bundesrates,ORG,0.0,0.0,de,1
 Bundesamtes für Energie,Bundesamtes für Energie,ORG,0.0,0.0,de,1
 PantherMedia,PantherMedia,ORG,0.0,0.0,de,1
-Skidestinationen,Skidestinationen,ORG,0.0,0.0,de,1
+GLP-Präsident,GLP-Präsident,ORG,0.0,0.0,de,1
 EM-Doku,EM-Doku,ORG,0.0,0.0,de,1
-FDP-Nationalrat,FDP-Nationalrat,ORG,0.0,0.0,de,1
+KURZ ERKLÄRT,KURZ ERKLÄRT,ORG,0.7,0.0,de,1
 TWZ,TWZ,ORG,0.0,0.0,de,1
 DWDL.de,DWDL.de,ORG,0.7999999999999999,0.0,de,1
 LC-Display,LC-Display,ORG,0.0,0.0,de,1
@@ -3116,12 +3116,12 @@ ze…,ze…,ORG,0.0,0.0,de,1
 Sony Alpha 7R V,Sony Alpha 7R V,ORG,0.0,0.0,de,1
 Pantone,Pantone,ORG,-0.7,0.0,de,1
 AI-Autofokus,AI-Autofokus,ORG,0.0,0.0,de,1
+Uni Leipzig,Uni Leipzig,ORG,-0.7,0.0,de,1
 Sozialistisch-Demokratische Studierendenverband Die Linke,Sozialistisch-Demokratische Studierendenverband Die Linke,ORG,0.0,0.0,de,1
 SDS,SDS,ORG,0.0,0.0,de,1
-Landtags,Landtags,ORG,0.0,0.0,de,1
 FK Riga FS,FK Riga FS,ORG,0.0,0.0,de,1
-Robert-Koch-Institut ,Robert-Koch-Institut ,ORG,-0.7,0.0,de,1
 Robert-Koch-Institut,Robert-Koch-Institut,ORG,0.0,0.0,de,1
+Robert-Koch-Institut ,Robert-Koch-Institut ,ORG,-0.7,0.0,de,1
 KVD-Galerie,KVD-Galerie,ORG,-1.0,0.0,de,1
 TGIQF,TGIQF,ORG,0.0,0.0,de,1
 Universität Bristol,Universität Bristol,ORG,0.0,0.0,de,1
@@ -3137,25 +3137,25 @@ Gemüseanbaus,Gemüseanbaus,ORG,-1.0,0.0,de,1
 PlantLab,PlantLab,ORG,0.0,0.0,de,1
 Adobe,Adobe,ORG,-0.7,0.0,de,1
 Pantone-Abo + Ausblick auf Winter,Pantone-Abo + Ausblick auf Winter,ORG,-0.7,0.0,de,1
-Uni Leipzig,Uni Leipzig,ORG,-0.7,0.0,de,1
 Stiftung Hamburger Gedenks,Stiftung Hamburger Gedenks,ORG,0.0,0.0,de,1
 Worum,Worum,ORG,0.0,0.0,de,1
+VVN-BdA,VVN-BdA,ORG,-1.0,0.0,de,1
 Bochum,Bochum,ORG,0.0,0.0,de,1
 Autofokus,Autofokus,ORG,1.0,0.0,de,1
 Twitter-Übernahme,Twitter-Übernahme,ORG,0.0,0.0,de,1
 Selenskyj,Selenskyj,ORG,-1.0,0.0,de,1
 CSU-Bundestagsfraktion,CSU-Bundestagsfraktion,ORG,0.35,0.0,de,1
-Volksrepublik Donbass,Volksrepublik Donbass,ORG,0.0,0.0,de,1
 Krim-Kraftwerk +++,Krim-Kraftwerk +++,ORG,0.0,0.0,de,1
+Volksrepublik Donbass,Volksrepublik Donbass,ORG,0.0,0.0,de,1
 Landestalsperrenverwaltung,Landestalsperrenverwaltung,ORG,0.7,0.0,de,1
 FC Schalke 04.,FC Schalke 04.,ORG,0.0,0.0,de,1
 Schalke-Trainer +++ FC Barcelona,Schalke-Trainer +++ FC Barcelona,ORG,-0.7,0.0,de,1
 Kinderärzte Wedel,Kinderärzte Wedel,ORG,0.7,0.0,de,1
-VVN-BdA,VVN-BdA,ORG,-1.0,0.0,de,1
+Landtags,Landtags,ORG,0.0,0.0,de,1
 lei,lei,ORG,0.0,0.0,de,1
 SCF,SCF,ORG,0.0,0.0,de,1
-Gesellschaft gerechter,Gesellschaft gerechter,ORG,-0.15000000000000002,0.0,de,1
 Gesundheitsminister Lauterbach Deutschlands,Gesundheitsminister Lauterbach Deutschlands,ORG,0.0,0.0,de,1
+Gesellschaft gerechter,Gesellschaft gerechter,ORG,-0.15000000000000002,0.0,de,1
 Fantasy-Fans,Fantasy-Fans,ORG,0.85,0.0,de,1
 Euro-Raum,Euro-Raum,ORG,0.0,0.0,de,1
 EZB-Rat,EZB-Rat,ORG,0.0,0.0,de,1
@@ -3922,7 +3922,7 @@ Jorts,Jorts,ORG,1.0,0.0,de,1
 Stimmt’s,Stimmt’s,ORG,0.0,0.0,de,1
 Hackerangriffen +++,Hackerangriffen +++,ORG,-0.7,0.0,de,1
 Don­ners­tag­abend,Don­ners­tag­abend,ORG,0.0,0.0,de,1
-Bretton-Woods-Institutionen,Bretton-Woods-Institutionen,ORG,0.0,0.0,de,1
+Rolex-Chef,Rolex-Chef,ORG,0.7,0.0,de,1
 Dürre im Seewinkel,Dürre im Seewinkel,ORG,0.0,0.0,de,1
 Guterres,Guterres,ORG,0.0,0.0,de,1
 LVU-Hauptgeschäftsführer,LVU-Hauptgeschäftsführer,ORG,1.0,0.0,de,1
@@ -3932,13 +3932,13 @@ BfArM,BfArM,ORG,1.0,0.0,de,1
 Düsseldorfer Rheinische Post,Düsseldorfer Rheinische Post,ORG,1.0,0.0,de,1
 TopFoto,TopFoto,ORG,0.0,0.0,de,1
 AKW-Reservebetrieb,AKW-Reservebetrieb,ORG,0.7,0.0,de,1
-Rolex-Chef,Rolex-Chef,ORG,0.7,0.0,de,1
-ANC-Kopfhörer,ANC-Kopfhörer,ORG,0.0,0.0,de,1
 Genfer Uhrensalon Watches & Wonders,Genfer Uhrensalon Watches & Wonders,ORG,0.7,0.0,de,1
+ANC-Kopfhörer,ANC-Kopfhörer,ORG,0.0,0.0,de,1
 Watches & Wonders,Watches & Wonders,ORG,0.0,0.0,de,1
 Rolex,Rolex,ORG,0.0,0.0,de,1
 Uhrenmesse Watches &amp,Uhrenmesse Watches &amp,ORG,0.0,0.0,de,1
 Genfer Uhrensalon Watches &amp,Genfer Uhrensalon Watches &amp,ORG,0.0,0.0,de,1
+Bretton-Woods-Institutionen,Bretton-Woods-Institutionen,ORG,0.0,0.0,de,1
 Roten Kreuzes Innsbruck,Roten Kreuzes Innsbruck,ORG,-0.5,0.0,de,1
 Frühjahrs-Aktionen,Frühjahrs-Aktionen,ORG,0.6333333333333333,0.0,de,1
 Chromecast,Chromecast,ORG,0.6333333333333333,0.0,de,1

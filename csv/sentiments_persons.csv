@@ -1108,13 +1108,13 @@ Pia Lamberty,Pia Lamberty,PER,0.35,0.0,de,2
 Ralf Rothmanns,Ralf Rothmanns,PER,-0.5,0.0,de,2
 Alphonso Davies,Alphonso Davies,PER,0.0,0.0,de,2
 Sven Regener,Sven Regener,PER,0.0,0.0,de,2
-Peter Molnar,Peter Molnar,PER,0.5,0.0,de,2
 Christopher Antwi-Adjei,Christopher Antwi-Adjei,PER,-0.7,0.0,de,2
 Dennis Smarsch,Dennis Smarsch,PER,0.0,0.0,de,2
+Florian Graedler,Florian Graedler,PER,0.0,0.0,de,2
 Kerry Hoppe,Kerry Hoppe,PER,0.0,0.0,de,2
 Doris Fenske,Doris Fenske,PER,0.0,0.0,de,2
 "Sturmtief ""Frederic","Sturmtief ""Frederic",PER,0.35,0.0,de,2
-Florian Graedler,Florian Graedler,PER,0.0,0.0,de,2
+Peter Molnar,Peter Molnar,PER,0.5,0.0,de,2
 RKI-Chef Wieler,RKI-Chef Wieler,PER,0.0,0.0,de,2
 Garri Kasparow,Garri Kasparow,PER,-0.35,0.0,de,2
 Sam Bankman-Fried,Sam Bankman-Fried,PER,0.425,0.0,de,2
@@ -1139,17 +1139,17 @@ Cloud-Gaming-Dienst Stadia,Cloud-Gaming-Dienst Stadia,PER,0.0,1.0,de,2
 Fatma Aydemir,Fatma Aydemir,PER,0.7,0.0,de,2
 Jens Oehmichen,Jens Oehmichen,PER,-0.175,0.25,de,2
 Gerrit Holtmann,Gerrit Holtmann,PER,0.0,0.0,de,2
-nan Den,nan Den,PER,0.0,0.0,de,2
+Jewgen Gamij,Jewgen Gamij,PER,0.0,0.0,de,2
 João Cancelo,João Cancelo,PER,-0.5,0.4,de,2
-"Taifun ""Noru","Taifun ""Noru",PER,0.0,0.0,de,2
 Klaus Merker,Klaus Merker,PER,0.0,0.0,de,2
+"Taifun ""Noru","Taifun ""Noru",PER,0.0,0.0,de,2
 Renato Veiga,Renato Veiga,PER,0.0,0.0,de,2
 Daley Blind,Daley Blind,PER,-0.5,0.4,de,2
 Friedemann Berg,Friedemann Berg,PER,-1.0,0.0,de,2
 Eva Löbau,Eva Löbau,PER,-1.0,0.0,de,2
 Frank Baumann,Frank Baumann,PER,-1.0,0.0,de,2
 Anna Meier,Anna Meier,PER,0.0,0.0,de,2
-Jewgen Gamij,Jewgen Gamij,PER,0.0,0.0,de,2
+nan Den,nan Den,PER,0.0,0.0,de,2
 Alica Schmidt,Alica Schmidt,PER,0.0,0.0,de,2
 Punxsutawney Phil,Punxsutawney Phil,PER,0.0,0.0,de,2
 David Young,David Young,PER,-0.15000000000000002,0.0,de,2
@@ -1205,10 +1205,10 @@ Nasses Feiertagswetter,Nasses Feiertagswetter,PER,0.0,0.0,de,1
 Nannie Fredrikson,Nannie Fredrikson,PER,0.0,0.0,de,1
 Margaret Atwoods,Margaret Atwoods,PER,0.0,1.0,de,1
 Bomba Luigi,Bomba Luigi,PER,0.0,0.0,de,1
+Antje Diekhan,Antje Diekhan,PER,0.2333333333333333,0.6666666666666666,de,1
 Ottmar Edenhofer,Ottmar Edenhofer,PER,0.0,0.0,de,1
 Berthold Heil,Berthold Heil,PER,1.0,0.0,de,1
 Naomi Klein,Naomi Klein,PER,1.0,0.0,de,1
-Antje Diekhan,Antje Diekhan,PER,0.2333333333333333,0.6666666666666666,de,1
 Thomas Strobl,Thomas Strobl,PER,0.0,0.0,de,1
 Lula da Silva,Lula da Silva,PER,1.0,0.0,de,1
 Luiz Inácio Lula da Silvas,Luiz Inácio Lula da Silvas,PER,0.0,0.0,de,1
@@ -1591,10 +1591,10 @@ Rudi Völler,Rudi Völler,PER,0.0,1.0,de,1
 Peter de Vries,Peter de Vries,PER,0.0,0.8,de,1
 Florian Wacker,Florian Wacker,PER,0.85,0.0,de,1
 Louis van Gaal,Louis van Gaal,PER,1.0,0.0,de,1
-Christoph Marty,Christoph Marty,PER,0.0,0.0,de,1
+Meister Trump,Meister Trump,PER,0.7,0.0,de,1
 David Bötzel,David Bötzel,PER,0.0,0.0,de,1
 Richard Fischer Blüten,Richard Fischer Blüten,PER,0.0,0.0,de,1
-Meister Trump,Meister Trump,PER,0.7,0.0,de,1
+Christoph Marty,Christoph Marty,PER,0.0,0.0,de,1
 Digitalminister Fedorow,Digitalminister Fedorow,PER,0.0,0.0,de,1
 Volker Tietz,Volker Tietz,PER,0.0,1.0,de,1
 Herbert Muster,Herbert Muster,PER,0.7,0.0,de,1
@@ -2539,11 +2539,11 @@ Touristik-Expertin Phillies Ramberger,Touristik-Expertin Phillies Ramberger,PER,
 Neuer-Ersatz Yann S,Neuer-Ersatz Yann S,PER,0.0,1.0,de,1
 Eric Maxim Choupo-Moting,Eric Maxim Choupo-Moting,PER,0.0,0.0,de,1
 Bernd Kladny,Bernd Kladny,PER,0.0,0.0,de,1
-Rob Marmion,Rob Marmion,PER,1.0,0.0,de,1
 Stéphanie Blanchoud,Stéphanie Blanchoud,PER,-0.7,0.0,de,1
 Schwester Margaret,Schwester Margaret,PER,-0.7,0.0,de,1
 Elli Spagnolo,Elli Spagnolo,PER,-0.7,0.0,de,1
 Ursula Meiers,Ursula Meiers,PER,0.0,0.0,de,1
+Rob Marmion,Rob Marmion,PER,1.0,0.0,de,1
 Belle Époque,Belle Époque,PER,0.0,0.0,de,1
 Almut Neumann,Almut Neumann,PER,0.0,0.0,de,1
 Frank Wiebe,Frank Wiebe,PER,0.0,0.0,de,1
